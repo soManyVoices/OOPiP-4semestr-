@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<People>
+  <Person>
+    <Name>John Smith</Name>
+    <Gender>Male</Gender>
+    <Age>25</Age>
+    <Status>Employee</Status>
+  </Person>
+  <Person>
+    <Name>Mary Johnson</Name>
+    <Gender>Female</Gender>
+    <Age>30</Age>
+    <Status>Worker</Status>
+  </Person>
+  <Person>
+    <Name>Michael Davis</Name>
+    <Gender>Male</Gender>
+    <Age>40</Age>
+    <Status>Student</Status>
+  </Person>
+  <Person>
+    <Name>Sarah Wilson</Name>
+    <Gender>Female</Gender>
+    <Age>35</Age>
+    <Status>Unemployed</Status>
+  </Person>
+  <Person>
+    <Name>Григорий Лепс</Name>
+    <Gender>Мужской</Gender>
+    <Age>23</Age>
+    <Status>Безработный</Status>
+  </Person>
+</People>

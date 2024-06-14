@@ -1,0 +1,20 @@
+﻿<Window x:Class="StreamDecoratorWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Stream Decorator Demo" Height="250" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Content="Read File Stream" Click="ReadFileStream_Click"/>
+        <Button Grid.Row="1" Content="Read Memory Stream" Click="ReadMemoryStream_Click"/>
+        <Button Grid.Row="2" Content="Read Buffered Stream" Click="ReadBufferedStream_Click"/>
+        <Button Grid.Row="3" Content="Show Buffered Data" Click="ShowBufferedData_Click"/>
+        <TextBox x:Name="outputTextBox" Grid.Row="4" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+    </Grid>
+</Window>

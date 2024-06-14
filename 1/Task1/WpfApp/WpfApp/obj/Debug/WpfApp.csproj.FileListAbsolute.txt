@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Alexander\Desktop\С#\1\Task1\WpfApp\WpfApp\obj\Debug\WpfApp.pdb

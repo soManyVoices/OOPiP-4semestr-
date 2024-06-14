@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\С#\5\5\5\bin\Debug\5.exe.config
+C:\Users\Alexander\Desktop\С#\5\5\5\bin\Debug\5.exe
+C:\Users\Alexander\Desktop\С#\5\5\5\bin\Debug\5.pdb
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5_MarkupCompile.cache
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5.g.resources
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5.exe
+C:\Users\Alexander\Desktop\С#\5\5\5\obj\Debug\5.pdb

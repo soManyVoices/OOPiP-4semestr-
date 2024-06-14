@@ -1,0 +1,42 @@
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\App.g.cs
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Andrey Larionov\Desktop\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Alexander\Desktop\С#\OOP(Dem)WPF\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Alexander\Desktop\С#\OOP6WPF\Lab6\Lab6\obj\Debug\Lab6.pdb

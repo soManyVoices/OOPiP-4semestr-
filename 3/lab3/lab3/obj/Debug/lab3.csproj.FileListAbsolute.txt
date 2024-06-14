@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3_MarkupCompile.cache
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.g.resources
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Alexander\Desktop\С#\3\lab3\lab3\obj\Debug\lab3.pdb

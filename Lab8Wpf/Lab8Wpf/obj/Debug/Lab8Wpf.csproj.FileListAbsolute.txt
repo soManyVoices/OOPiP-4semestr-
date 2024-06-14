@@ -1,0 +1,124 @@
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe.config
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.pdb
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.AssemblyReference.cache
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\App.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.cache
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.lref
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.g.resources
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.Properties.Resources.resources
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.GenerateResource.cache
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.exe
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.pdb
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.baml
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe.config
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.pdb
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.AssemblyReference.cache
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\App.g.cs
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.cache
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.lref
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.baml
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.g.resources
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.Properties.Resources.resources
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.GenerateResource.cache
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.exe
+C:\Users\Andrey Larionov\Desktop\University\GitHub\OOP\OOP_2\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.pdb
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe.config
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.pdb
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.cache
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.lref
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.g.resources
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.exe
+C:\Users\Alexander\Desktop\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.pdb
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe.config
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.exe
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\bin\Debug\Lab8Wpf.pdb
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddCountryWindow.xaml.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddFilmWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddGenreWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Add\AddProductionCompanyWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditCountryWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditFilmWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditGenreWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Edit\EditProductionCompanyWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.cache
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf_MarkupCompile.lref
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.g.resources
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.Properties.Resources.resources
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.exe
+C:\Users\Alexander\Desktop\С#\Lab8Wpf\Lab8Wpf\obj\Debug\Lab8Wpf.pdb

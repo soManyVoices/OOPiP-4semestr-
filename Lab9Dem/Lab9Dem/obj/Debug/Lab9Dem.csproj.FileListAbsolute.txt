@@ -1,0 +1,14 @@
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\bin\Debug\Lab9Dem.exe.config
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\bin\Debug\Lab9Dem.exe
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\bin\Debug\Lab9Dem.pdb
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.csproj.AssemblyReference.cache
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.exe
+C:\Users\Andrey Larionov\Desktop\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.pdb
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\bin\Debug\Lab9Dem.exe.config
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\bin\Debug\Lab9Dem.exe
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\bin\Debug\Lab9Dem.pdb
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.exe
+C:\Users\Alexander\Desktop\С#\Lab9Dem\Lab9Dem\obj\Debug\Lab9Dem.pdb
